@@ -1,0 +1,95 @@
+# 📊 Vortex Tech Data Science Internship – Week 1
+
+## Data Cleaning and Basic Visualization
+
+### 📌 Project Overview
+
+This project was completed as part of the **Vortex Tech Data Science & Analytics Internship Program 2026 (Week 1)**.
+
+The objective was to clean a real-world dataset and perform basic exploratory analysis through visualizations to understand business patterns and prepare the data for further analysis.
+
+---
+
+## 📂 Dataset
+
+* **Dataset:** Super Store Sales Dataset (Kaggle)
+* **Format:** CSV
+* **Domain:** Retail Sales
+
+The dataset contains information about customer orders, shipping details, product categories, regions, and sales.
+
+---
+
+## 🎯 Objectives
+
+* Load and inspect the dataset
+* Handle missing values (if any)
+* Remove duplicate records
+* Verify and correct data types
+* Perform basic data cleaning
+* Create meaningful visualizations
+* Interpret business insights from the data
+
+---
+
+## 🛠 Technologies Used
+
+* Python
+* Google Colab
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+---
+
+## 📈 Visualizations Included
+
+* Total Sales by Category
+* Sales by Region
+* Sales by Customer Segment
+* Orders by Ship Mode
+* Sales Distribution (Histogram)
+* Monthly Sales Trend
+
+Each visualization includes appropriate titles, axis labels, and a brief explanation of the observed pattern.
+
+---
+
+## 🔍 Key Insights
+
+* Product categories contribute differently to overall sales, highlighting variations in customer demand.
+* Sales performance differs across regions, indicating potential market opportunities.
+* Customer segments show different purchasing behaviors.
+* Standard shipping is the most frequently used delivery method.
+* Monthly sales reveal trends and fluctuations over time 
+
+---
+
+## ▶️ How to Run
+
+1. Clone this repository or download the files.
+2. Open the notebook in Google Colab or Jupyter Notebook.
+3. Ensure the dataset (`super store.csv`) is in the same directory as the notebook.
+4. Run all notebook cells from top to bottom.
+
+---
+
+## 📌 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+* Data cleaning and preprocessing
+* Working with tabular datasets using Pandas
+* Creating professional visualizations using Matplotlib and Seaborn
+* Extracting meaningful insights from business data
+* Organizing a reproducible data analysis project using Jupyter Notebook
+
+---
+
+## 👩‍💻 Author
+
+**Rutvi Rathod**
+
+Data Science & Analytics Intern
+Vortex Tech Internship Program 2026
