@@ -1,0 +1,102 @@
+# 📊 Vortex Tech Data Science Internship – Week 2
+
+## Exploratory Data Analysis (EDA) with Business Insights
+
+### 📌 Project Overview
+
+This project was completed as part of the **Vortex Tech Data Science & Analytics Internship Program 2026 (Week 2)**.
+
+The objective of this project was to perform **Exploratory Data Analysis (EDA)** on the Super Store Sales dataset to discover meaningful patterns, relationships, and trends using statistical analysis and data visualization.
+
+---
+
+## 📂 Dataset
+
+* **Dataset:** Super Store Sales Dataset (Kaggle)
+* **Format:** CSV
+* **Domain:** Retail Sales
+
+The dataset contains information about customer orders, shipping details, product categories, regions, and sales. Additional features were engineered from the existing data to support deeper analysis.
+
+---
+
+## 🎯 Objectives
+
+* Review and clean the dataset
+* Perform exploratory data analysis (EDA)
+* Create additional features from date columns
+* Analyze relationships between variables
+* Visualize sales patterns using charts and graphs
+* Generate meaningful business insights
+* Summarize key findings
+
+---
+
+## 🛠 Technologies Used
+
+* Python
+* Google Colab
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+---
+
+## 📈 Exploratory Analysis Performed
+
+* Data overview and summary statistics
+* Missing value analysis
+* Duplicate record check
+* Feature engineering
+
+  * Shipping Days
+  * Order Month
+  * Order Year
+* Correlation Heatmap
+* Scatter Plot (Sales vs Shipping Days)
+* Monthly Sales Trend
+* Sales by Category
+* Sales by Region
+* Sales by Customer Segment
+
+---
+
+## 🔍 Key Business Insights
+
+* Sales performance varies across product categories, helping identify the strongest-performing categories.
+* Regional analysis highlights differences in sales across geographical markets.
+* Customer segments contribute differently to total sales, providing insights into customer purchasing behavior.
+* Monthly sales trends reveal seasonal fluctuations that can support business planning.
+* Feature engineering enabled additional analysis by deriving shipping duration and time-based features from the existing dataset.
+
+---
+
+## ▶️ How to Run
+
+1. Clone this repository or download the project files.
+2. Open the notebook in Google Colab or Jupyter Notebook.
+3. Place the dataset (`super store.csv`) in the same directory as the notebook.
+4. Run all notebook cells from top to bottom.
+
+---
+
+## 📌 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+* Exploratory Data Analysis (EDA)
+* Feature engineering using date variables
+* Correlation analysis
+* Data visualization using Matplotlib and Seaborn
+* Identifying business patterns from retail sales data
+* Presenting analytical findings with clear visualizations and insights
+
+---
+
+## 👩‍💻 Author
+
+**Rutvi Rathod**
+
+Data Science & Analytics Intern
+Vortex Tech Internship Program 2026
