@@ -1,0 +1,101 @@
+# 📊 Week 3 – Interactive Sales Dashboard
+
+## 📌 Overview
+This project was developed as part of the **Vortex Tech Data Science Internship – Week 3**. It is an interactive sales dashboard built using **Streamlit**, allowing users to upload any CSV dataset and perform basic exploratory data analysis (EDA) through an easy-to-use web interface.
+
+## 🚀 Features
+- Upload CSV files
+- Preview uploaded dataset
+- Display dataset metrics (Rows & Columns)
+- Interactive Bar Chart
+- Interactive Scatter Plot
+- Summary Statistics
+- User-friendly Streamlit interface
+
+## 🛠️ Technologies Used
+- Python
+- Streamlit
+- Pandas
+- Matplotlib
+
+## 📂 Project Structure
+
+```
+Week-3-Dashboard/
+│── app.py
+│── requirements.txt
+│── README.md
+```
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repository.git
+```
+
+Move into the project directory:
+
+```bash
+cd your-repository
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## ▶️ Run the Application
+
+```bash
+streamlit run app.py
+```
+
+The application will open in your browser at:
+
+```
+http://localhost:8501
+```
+
+## 🌐 Deployment
+
+This application is deployed using **Render**.
+
+Start Command:
+
+```bash
+streamlit run app.py --server.port $PORT --server.address 0.0.0.0
+```
+
+## 📈 Dashboard Workflow
+
+1. Launch the application.
+2. Upload a CSV file.
+3. Preview the dataset.
+4. View dataset metrics.
+5. Select categorical and numerical columns.
+6. Generate interactive visualizations.
+7. Analyze summary statistics.
+
+## 🎯 Learning Outcomes
+
+Through this project, I learned:
+- Building interactive dashboards using Streamlit
+- Reading and processing CSV datasets with Pandas
+- Creating data visualizations using Matplotlib
+- Performing basic Exploratory Data Analysis (EDA)
+- Deploying Python applications on Render
+
+## 👩‍💻 Author
+
+**Rutvi Rathod**
+
+Data Science Intern – Vortex Tech
+
+M.Sc. Data Science | BE Computer Engineering
+
+---
+
+⭐ Thank you for visiting this project!
