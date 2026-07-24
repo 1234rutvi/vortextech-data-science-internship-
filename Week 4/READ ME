@@ -1,0 +1,33 @@
+# Week 4 – Machine Learning
+
+## Objective
+Build a Machine Learning model using the Superstore dataset to predict the target variable using Random Forest Regression.
+
+## Dataset
+- Superstore Dataset
+
+## Libraries Used
+- pandas
+- scikit-learn
+- joblib
+
+## Workflow
+1. Load dataset
+2. Remove missing values
+3. Encode categorical variables
+4. Split dataset into training and testing sets
+5. Train Random Forest Regressor
+6. Evaluate model performance
+7. Save trained model
+
+## Evaluation Metrics
+- R² Score
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+
+## Output
+- Trained model saved as `model.pkl`
+
+## Author
+Rutvi Rathod
