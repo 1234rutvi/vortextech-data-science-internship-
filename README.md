@@ -13,8 +13,8 @@ The internship focuses on developing practical data science skills through hands
 ```
 📂 Week 1 - Data Cleaning & Visualization
 📂 Week 2 - Dashboard Development
-📂 Week 3 - (To be added)
-📂 Week 4 - (To be added)
+📂 Week 3 - Dashboard Developed 
+📂 Week 4 - ML Regressor
 ```
 
 ---
